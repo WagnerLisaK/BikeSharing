@@ -18,4 +18,6 @@ Based on the analysis, having a bike-sharing program in Des Moines seems feasibl
 
 ![Dashboard3.png](https://github.com/WagnerLisaK/BikeSharing/blob/main/Resources/Dashboard3.png)
 
+[Link to Tableau Files](https://public.tableau.com/app/profile/lisa.k.wagner)
+
 Submitted by Lisa K Wagner (09/25/2021)
